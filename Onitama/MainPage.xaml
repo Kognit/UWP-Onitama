@@ -9,5 +9,7 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+
+        <Frame Name="mainframe" Loaded="mainframe_Loaded"></Frame>
     </Grid>
 </Page>
